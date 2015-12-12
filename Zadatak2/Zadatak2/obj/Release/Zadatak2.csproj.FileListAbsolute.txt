@@ -1,0 +1,6 @@
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak2\Zadatak2\bin\Release\Zadatak2.exe.config
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak2\Zadatak2\bin\Release\Zadatak2.exe
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak2\Zadatak2\bin\Release\Zadatak2.pdb
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak2\Zadatak2\obj\Release\Zadatak2.csprojResolveAssemblyReference.cache
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak2\Zadatak2\obj\Release\Zadatak2.exe
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak2\Zadatak2\obj\Release\Zadatak2.pdb

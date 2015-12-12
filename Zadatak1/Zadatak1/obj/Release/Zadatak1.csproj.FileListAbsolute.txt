@@ -1,0 +1,5 @@
+c:\users\matija_hani\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\bin\Release\Zadatak1.exe.config
+c:\users\matija_hani\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\bin\Release\Zadatak1.exe
+c:\users\matija_hani\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\bin\Release\Zadatak1.pdb
+c:\users\matija_hani\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\obj\Release\Zadatak1.exe
+c:\users\matija_hani\documents\visual studio 2015\Projects\Zadatak1\Zadatak1\obj\Release\Zadatak1.pdb

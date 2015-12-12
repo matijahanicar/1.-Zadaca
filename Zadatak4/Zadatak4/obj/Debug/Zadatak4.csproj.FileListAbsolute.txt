@@ -1,0 +1,13 @@
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak2\bin\Debug\Zadatak2.exe.config
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak2\obj\Debug\Zadatak2.exe
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak2\obj\Debug\Zadatak2.pdb
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak2\bin\Debug\Zadatak2.exe
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak2\bin\Debug\Zadatak2.pdb
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak2\obj\Debug\Zadatak4.csprojResolveAssemblyReference.cache
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak2\bin\Debug\Zadatak4.exe.config
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe.config
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak4\bin\Debug\Zadatak4.exe
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak4\bin\Debug\Zadatak4.pdb
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak4\obj\Debug\Zadatak4.csprojResolveAssemblyReference.cache
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak4\obj\Debug\Zadatak4.exe
+C:\Users\Matija_Hani\Documents\Visual Studio 2015\Projects\Zadatak4\Zadatak4\obj\Debug\Zadatak4.pdb

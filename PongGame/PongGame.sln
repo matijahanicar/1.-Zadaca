@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PongGame", "PongGame\PongGame.csproj", "{2EE87CFB-63F7-45F4-8662-FC67AB17426D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadatak4", "..\Zadatak4\Zadatak4\Zadatak4.csproj", "{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EE87CFB-63F7-45F4-8662-FC67AB17426D}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{2EE87CFB-63F7-45F4-8662-FC67AB17426D}.Debug|x86.ActiveCfg = Debug|x86
+		{2EE87CFB-63F7-45F4-8662-FC67AB17426D}.Debug|x86.Build.0 = Debug|x86
+		{2EE87CFB-63F7-45F4-8662-FC67AB17426D}.Release|Any CPU.ActiveCfg = Release|x86
+		{2EE87CFB-63F7-45F4-8662-FC67AB17426D}.Release|x86.ActiveCfg = Release|x86
+		{2EE87CFB-63F7-45F4-8662-FC67AB17426D}.Release|x86.Build.0 = Release|x86
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD5B8B6C-DB45-4FD0-8D27-47721EBD7AE7}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
